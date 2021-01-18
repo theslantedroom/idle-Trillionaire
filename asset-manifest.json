@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/idle-Billionaire/static/css/main.ba19fd45.chunk.css",
-    "main.js": "/idle-Billionaire/static/js/main.4674e794.chunk.js",
-    "main.js.map": "/idle-Billionaire/static/js/main.4674e794.chunk.js.map",
-    "runtime-main.js": "/idle-Billionaire/static/js/runtime-main.86fce495.js",
-    "runtime-main.js.map": "/idle-Billionaire/static/js/runtime-main.86fce495.js.map",
+    "main.css": "/idle-Billionaire/static/css/main.f542848d.chunk.css",
+    "main.js": "/idle-Billionaire/static/js/main.6cf773f4.chunk.js",
+    "main.js.map": "/idle-Billionaire/static/js/main.6cf773f4.chunk.js.map",
+    "runtime-main.js": "/idle-Billionaire/static/js/runtime-main.cfaf2063.js",
+    "runtime-main.js.map": "/idle-Billionaire/static/js/runtime-main.cfaf2063.js.map",
     "static/css/2.31461e4f.chunk.css": "/idle-Billionaire/static/css/2.31461e4f.chunk.css",
-    "static/js/2.7e8fb3ce.chunk.js": "/idle-Billionaire/static/js/2.7e8fb3ce.chunk.js",
-    "static/js/2.7e8fb3ce.chunk.js.map": "/idle-Billionaire/static/js/2.7e8fb3ce.chunk.js.map",
-    "static/js/3.acf8655c.chunk.js": "/idle-Billionaire/static/js/3.acf8655c.chunk.js",
-    "static/js/3.acf8655c.chunk.js.map": "/idle-Billionaire/static/js/3.acf8655c.chunk.js.map",
+    "static/js/2.add12b86.chunk.js": "/idle-Billionaire/static/js/2.add12b86.chunk.js",
+    "static/js/2.add12b86.chunk.js.map": "/idle-Billionaire/static/js/2.add12b86.chunk.js.map",
+    "static/js/3.6f9d4002.chunk.js": "/idle-Billionaire/static/js/3.6f9d4002.chunk.js",
+    "static/js/3.6f9d4002.chunk.js.map": "/idle-Billionaire/static/js/3.6f9d4002.chunk.js.map",
     "index.html": "/idle-Billionaire/index.html",
     "static/css/2.31461e4f.chunk.css.map": "/idle-Billionaire/static/css/2.31461e4f.chunk.css.map",
-    "static/css/main.ba19fd45.chunk.css.map": "/idle-Billionaire/static/css/main.ba19fd45.chunk.css.map",
-    "static/js/2.7e8fb3ce.chunk.js.LICENSE.txt": "/idle-Billionaire/static/js/2.7e8fb3ce.chunk.js.LICENSE.txt",
+    "static/css/main.f542848d.chunk.css.map": "/idle-Billionaire/static/css/main.f542848d.chunk.css.map",
+    "static/js/2.add12b86.chunk.js.LICENSE.txt": "/idle-Billionaire/static/js/2.add12b86.chunk.js.LICENSE.txt",
     "static/media/App.css": "/idle-Billionaire/static/media/TT0589M_.ae34b45a.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.86fce495.js",
+    "static/js/runtime-main.cfaf2063.js",
     "static/css/2.31461e4f.chunk.css",
-    "static/js/2.7e8fb3ce.chunk.js",
-    "static/css/main.ba19fd45.chunk.css",
-    "static/js/main.4674e794.chunk.js"
+    "static/js/2.add12b86.chunk.js",
+    "static/css/main.f542848d.chunk.css",
+    "static/js/main.6cf773f4.chunk.js"
   ]
 }
