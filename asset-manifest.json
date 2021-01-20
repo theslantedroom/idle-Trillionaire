@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/idle-Billionaire/static/css/main.c7313065.chunk.css",
-    "main.js": "/idle-Billionaire/static/js/main.f430d864.chunk.js",
-    "main.js.map": "/idle-Billionaire/static/js/main.f430d864.chunk.js.map",
+    "main.js": "/idle-Billionaire/static/js/main.93075fd5.chunk.js",
+    "main.js.map": "/idle-Billionaire/static/js/main.93075fd5.chunk.js.map",
     "runtime-main.js": "/idle-Billionaire/static/js/runtime-main.01a220bc.js",
     "runtime-main.js.map": "/idle-Billionaire/static/js/runtime-main.01a220bc.js.map",
     "static/css/2.31461e4f.chunk.css": "/idle-Billionaire/static/css/2.31461e4f.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.31461e4f.chunk.css",
     "static/js/2.8a87e7e0.chunk.js",
     "static/css/main.c7313065.chunk.css",
-    "static/js/main.f430d864.chunk.js"
+    "static/js/main.93075fd5.chunk.js"
   ]
 }
