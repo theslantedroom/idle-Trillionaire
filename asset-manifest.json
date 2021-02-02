@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/idle-Trillionaire/static/css/main.711284d3.chunk.css",
-    "main.js": "/idle-Trillionaire/static/js/main.67118f58.chunk.js",
-    "main.js.map": "/idle-Trillionaire/static/js/main.67118f58.chunk.js.map",
+    "main.css": "/idle-Trillionaire/static/css/main.eac66a40.chunk.css",
+    "main.js": "/idle-Trillionaire/static/js/main.f8e09ccf.chunk.js",
+    "main.js.map": "/idle-Trillionaire/static/js/main.f8e09ccf.chunk.js.map",
     "runtime-main.js": "/idle-Trillionaire/static/js/runtime-main.f03b296b.js",
     "runtime-main.js.map": "/idle-Trillionaire/static/js/runtime-main.f03b296b.js.map",
     "static/css/2.31461e4f.chunk.css": "/idle-Trillionaire/static/css/2.31461e4f.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.1d25a761.chunk.js.map": "/idle-Trillionaire/static/js/3.1d25a761.chunk.js.map",
     "index.html": "/idle-Trillionaire/index.html",
     "static/css/2.31461e4f.chunk.css.map": "/idle-Trillionaire/static/css/2.31461e4f.chunk.css.map",
-    "static/css/main.711284d3.chunk.css.map": "/idle-Trillionaire/static/css/main.711284d3.chunk.css.map",
+    "static/css/main.eac66a40.chunk.css.map": "/idle-Trillionaire/static/css/main.eac66a40.chunk.css.map",
     "static/js/2.f0f9e49a.chunk.js.LICENSE.txt": "/idle-Trillionaire/static/js/2.f0f9e49a.chunk.js.LICENSE.txt",
     "static/media/App.css": "/idle-Trillionaire/static/media/TT0589M_.ae34b45a.woff"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.f03b296b.js",
     "static/css/2.31461e4f.chunk.css",
     "static/js/2.f0f9e49a.chunk.js",
-    "static/css/main.711284d3.chunk.css",
-    "static/js/main.67118f58.chunk.js"
+    "static/css/main.eac66a40.chunk.css",
+    "static/js/main.f8e09ccf.chunk.js"
   ]
 }
