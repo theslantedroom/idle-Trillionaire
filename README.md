@@ -2,7 +2,7 @@
 An idle game about insane amounts of money
 
 
-![IdleTrillionaire](responsiveBillionaire.png)
+![IdleTrillionaire](responsivetrillionaire.png)
 - [Play Now](https://theslantedroom.github.io/idle-Billionaire/)
 
 
